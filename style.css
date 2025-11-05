@@ -57,6 +57,31 @@ img {
   left: 17vw;
   color: white;
 }
+.hed2 {
+  position: relative;
+  bottom: 30vh;
+  color: white;
+}
+.sub-hed3 {
+  position: relative;
+  bottom: 25vh;
+  left: 2vw;
+  width: 33vw;
+  text-align: center;
+  color: white;
+}
+.hed3 {
+  position: relative;
+  bottom: 40vh;
+  color: white;
+}
+.sub-hed4 {
+  position: relative;
+  bottom: 12vh;
+  left: 7vw;
+  color: white;
+}
+
 .sub-hed2:hover{
     border: 2px solid black;
     background-color: black;
@@ -70,4 +95,20 @@ h5{
 .card-img-top:hover{
   transform: scale(1.04);
   transition: 0.5s ease-in-out;
+}
+.position{
+  position: relative;
+  bottom: 35px;
+  right: 25px;
+  margin: 10px;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  font-size: 17px;
+  font-weight: 500;
+  padding: 5px 10px;
+  background-color: #8CC63F;
+  color: white;
+}
+.hed{
+  text-align: center;
 }
